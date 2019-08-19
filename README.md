@@ -1,2 +1,2 @@
 # HackerRank-Solutions
-Hacker rank challenges I solved
+Hacker rank challenges I solved - Python 3
